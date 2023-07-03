@@ -1,0 +1,25 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+For those of you who want to get in touch, here is my contact information.
+
+Email: quadcore@tutanota.de
+Discord: quad_core
+
+If you are reaching out to me via email, please use the provided PGP Public Key. Otherwise your email will be ignored.
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEYa+BmSCzuoO41PfTE6ojAZu8cwUFAmSjXBoACgkQE6ojAZu8
+cwX5ARAAslB6e0Vc6cBAiVXcK4WIv/xn3OUkOcZ7AcgQovLbnF4Ey+h3V5Ae3JuQ
+4gTxHIbGes1/jxLIFKK2s3cxBVpQCw2/RcE2ZN324K6kzMlldf/gFxdGfMN5S1pr
+VumVhkx/zKtnnEbg+3cWm5EYkpWd+1H9rSn1kLDVLiIfweMxjf7nwcJlbBg3e2ay
+cw63C8zTPgxjJY2DFkr4TqOD8Dife2MPY09cyztRGhQoMJiRTx/pSv/FnHUFsRvs
+I4eMLSY/na2Nm9MXLpL097OjxoD5KQV9NR7gL3LbYjHZUv//3JMzEUT419A1qTjF
+gqpqwBq230qHPieNPXWTnN1Mtze/sZBDKQx9yj+nfHtS9VMhqQBoYXVSzlr591c/
+YTA0aNMsIGGTFLj94mN1xMmtsUn89sUDKQOrEYOrOxRMIQducVZDMBBk/BWo4EU2
+Q7dbWFzGrMcKztKf6JgBwnTBOaOlyuO0w7wtgCEHtO64xdUR6lFMFaU3n6OgYI4n
+HFk7VwgiDC656ZBr93QOWgRzZxxupe62hHjWDKsK/qnZUDtj2aRJPWt8aCIb07tz
+KBWM2tw4GYrsIqqATgKh7AcRmEIalI6UXRIyuowKkrPuCoD3lAJ6+taJ+aREhZOz
+uR1icPYrA4QwxhmiBt9+qpKQLz3r7EARxRwiKkmQaBngoRJpX8s=
+=5H4d
+-----END PGP SIGNATURE-----
